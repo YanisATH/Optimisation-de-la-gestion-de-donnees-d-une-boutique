@@ -12,8 +12,6 @@ Projet effectué dans le cadre de ma formation chez OpenClassrooms
 
 BottleNeck, un marchand de vin souhaite faciliter le gestion de son stock en rapprochant les inventaire IRL et web. Il faut également effectuer une analyse sommaire des données.
 
-All of my projects are in french, if you would like to see them translated please contact me on [LinkedIn](https://www.linkedin.com/in/yanis-athamnia-117111141/)
-
 Les données :
 
 * ERP = données fictives sur des produits existants
